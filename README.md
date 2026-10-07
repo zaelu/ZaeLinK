@@ -40,7 +40,7 @@ Even if the handles change from one headset to the other they modify minimally t
 
 Where it will be available?
 All 3D stl hosting sites and GitHub under CERN Open Hardware [LICENCE](LICENSE).
-. Anybody could print it. 
+ 
 
 Why is called Zaelink and how one can read it?
 TLDR if you read it like TheLink but with a slight German "Zee" you are fine. Is intended to sound funny.
