@@ -1,6 +1,6 @@
 # "ZaeLinK" - VR Gunstock and its variants "Olympic" and "Fragnetto"
 
-![Project Photo](https://github.com/zaelu/ZaeLinK/blob/main/Logo_zaelink.jpg?raw=true)
+![Project Photo](https://github.com/zaelu/ZaeLinK/blob/main/Logo_zaelink.png?raw=true)
 
 
 A unique, open-source hardware project. 
