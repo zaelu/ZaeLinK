@@ -24,25 +24,23 @@ The First principles at the core of ZaeLink VR gusntock creation are:
 9. It needs not to be dangerous or heavy. So it doesn't look like a weapon. It has no exposed metallic parts, no screws, no visible magnets, no unecesarry sharp edges and as many round shapes as possible and be as minimalistic as possible (depending on configuration).
 10. It needs to work with VR games and their specific style and not to necessary it needs not to look like a specific real life weapon but more like Olympic sports ones i.e. specialized in performance in games not robustness under real life war fire.
 
-==================
 What do we mean by automatic connection?
 This main principle is a condition sine qua non for a functional VR Gunstock. We literaly have some Gunstocks today that hang from our necks and expect us to connect both handles/controllers to it in the heat of the battle while blind folded. We find this wrong and one of the main reasons people don't use them. Nobody assembles a weapon fractions of a second before a firefight... blind folded.
 It also means it should be effortless. You don't focuss at all on connecting the gunstock, you focus on playing. You grab the virtual  weapon with right hand, then you grab it with the left hand and immediatelly aim or start playing and the connection is done automatically and the gunstock is locked in position without any other intervention. To disconnect you just... disconnect :) .
 More details about operation on release as it takes one second to see how and then go... "Aaah.. LOL... ".
 
-========================
 What does it mean to work with specifics of VR first person shooters?
 Think more on how a olimpic gun looks than a specific weapon from real military. It's why it allows playing while holding it not like a real gun is held if user wishes to. Meaning it can be held centrally on the chest not necesarry as a weapon on the side with the head tilted on it but if user wants both ways can be used.
-=========================
+
 What headsets are supported?
 Currently working with Quest 3/3S Pico 4/4Ultra and Quest 2. Planned nex is the Steam Frame.
-=======================
+
 What does "work with all headsets" mean?
 Even if the handles change from one headset to the other they modify minimally their grips and the Gustock ramains virtually the same on all platforms. When all things are considered it makes so there is no need for player to adapt to it but rather the ggunstock adapts to player.
-========================
+
 Where it will be available?
 All 3D stl hosting sites and github under sort of GPL license. Anybody could print it. 
-========================
+
 Why is called Zaelink and how one can read it?
 TLDR if you read it like TheLink but with a slight German "Zee" you are fine. Is intended to sound funny.
 Trivia:
