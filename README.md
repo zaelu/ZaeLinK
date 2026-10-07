@@ -41,7 +41,7 @@ What does "work with all headsets" mean?
 Even if the handles change from one headset to the other they modify minimally their grips and the Gustock ramains virtually the same on all platforms. When all things are considered it makes so there is no need for player to adapt to it but rather the ggunstock adapts to player.
 ========================
 Where it will be available?
-All 3D stl hosting sites and GitHub under Open Hardware LICENSE . Anybody could print it.  
+All 3D stl hosting sites and github under sort of GPL license. Anybody could print it. 
 ========================
 Why is called Zaelink and how one can read it?
 TLDR if you read it like TheLink but with a slight German "Zee" you are fine. Is intended to sound funny.
