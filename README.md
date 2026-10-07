@@ -1,2 +1,2 @@
 # ZaeLinK
-Home of ZaeLinK VR Gunstock and it's variants (Olympic and Fragnetto)
+Home of ZaeLinK VR Gunstock and its variants (Olympic and Fragnetto)
