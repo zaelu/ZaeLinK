@@ -1,4 +1,4 @@
-# [ZaeLinK - VR Gunstock and its variants (Olympic and Fragnetto)]
+# "ZaeLinK" - VR Gunstock and its variants "Olympic" and "Fragnetto"
 
 ![Project Photo or Render](link-to-your-image.png)
 
