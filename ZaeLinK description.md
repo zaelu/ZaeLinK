@@ -56,7 +56,7 @@ There are two principal patterns that are used:
 
   **2.** The second component is **the pair of Two Cups** that hold the actual VR Touch Controllers in the case of modern VR heassets like Meta Quest 3, 3S and Pro (Quest 2 works with same cups as 3), Pico 4 Ultra and in the short future Steam Frame controllers. For Pico 4 non Ultra the controllers instead of cups under rings clamps are used to latch on the controllers spiral rings from underneath avoiding occlusion of the IR tracking LEDs
 
-The cups are designed such the controllers can slide in with ease and also mechanically be retained inside them requiring a minimal force to pull them off. Also they are designed to be 3D printed in such direction that the cups and their attachments that permit the coupling to the connecting rods that link them to the magnetic core and the buttstock are very strong and resit to operating tensions due to how the layer lines pas durring printing. The same 3D printing desing measures ensures a good shape of these cups that allow them to be thin and offer good grip cvasi identical with original to the user.
+The cups are designed such the controllers can slide in with ease and also mechanically be retained inside them requiring a minimal force to pull them off. Also they are designed to be 3D printed in such direction that the cups and their attachments that permit the coupling to the connecting rods that link them to the magnetic core and the buttstock are very strong and resist to operating tensions due to how the layer lines pass during printing. The same 3D printing design measures ensures a good shape of these cups that allow them to be thin (only 1-1.5mm thick) and offer good grip cvasi identical with original to the user.
 
 ![cups view](photos_docs/poza011.jpg)
   
@@ -82,36 +82,19 @@ Here bellow you can see a non detachable Buttstock variant that also has non adj
 
 ![connecting rods 1st view](photos_docs/poza016.jpg)
 
+![connecting rods 2nd view](photos_docs/poza017.jpg)
 
 
+Finally 3 more pictures with some more details. First show the adjusting rods in extended position. Second and Third show a Pico 4 Ultra and respectively a Pico 4 (nonUltra) variants in Fragnetto Configuration with fixed connecting rods.
 
-
-
-
-**Finally 3 more pictures with some more details. First show the adjusting rods in extended position. Second and Third show a Pico 4 Ultra and respectively a Pico 4 (nonUltra) variants in Fragnetto Configuration with fixed connecting rods.**
-
-
-
-
-
-
-
-
+![extended rods](photos_docs/poza018.jpg)
 
 **Pico 4 Ultra version with fixed connecting rods**
 
-
-
-
-
-
+![P4U](photos_docs/poza019.jpg)
 
 **Pico 4 non Ultra version sporting stronger knobs for rare cases of 3d printing defects.**
 
+![P4nonU](photos_docs/poza020.jpg)
 
-
-
-
-**  
-End of document.  
-**
+**End of document.**
