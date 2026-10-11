@@ -24,7 +24,7 @@ The components of the Zaelink VR Gunstock are:
 
 This Core is comprised of two round halves connected via connecting rods to the VR Touch Controllers. Inside the two circular halves that resembles to very flat cilinders facing eachother vertically there are a pattern of (usually) 6 (six) button type magnets (15x6mm or smaller thickness for adjusting magnetic power) arranged in a hexagonal pattern where each center of every magnet finds itself on a corner of this hexagonal imaginary shape that defines its pattern. The distance between magnets can also be tweaked but the Zaelink VR Gunstock uses a fixed 5cm lenght for any hexagon edge as it was found to be optimal for this application.  
 The two halves of the Magnetic Core thus attract each other by magnetic means while in close proximity aligning themselves with each of the six magnets of one side snapping to each of the six magnets of e other side. 
-![Core pic 1](photos_docs/poza005.jpg)
+![Core pic 1](photos_docs/poza007.jpg)
 
 There are two principal patterns that are used:
 
