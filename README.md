@@ -64,10 +64,12 @@ You can view and interact with the 3D models directly in this repository by clic
 ## 🔩 Bill of Materials (BOM)
 To build this, you will need the following non-printed parts:
 * PLA 400-700gramsdepending on how many parts and types are printed
-* Magnets [to be elaborated]
-* 
+* Magnets 15x6mm button magnets without any sockets or fixtures or screws and screw holes!!! Just simple button magnets. They can be thinner like 3mm if their power needs to be lowered. Or thicker for opposite effect. In such cases the lids need some modification to accommodate te changed thickness of the magnets.
+* Double sided duck tape or scotch. very thin and cheap. It's role is important as it creates the necessary clutch like behavior of the adjusting ball socket joints!
+* 3 M4x40 screws and 3 sf locking nuts for the tightening knobs for the variable lenght connecting rods
+* SUPER GLUE or other better PLA glue (some rare substances started to exist). Very important how it is applied for strength of the balls on top of connecting rods. Recommended a small bottle of 5g that has a brush like applicator!!! Don't cheap out here for the usual 1-2g squeezable tubes as they are messy and render worse results. :D
 
-## 🛠️ Assembly Instructions
+## 🛠️ Assembly Instructions (to be added)
 1. [Step 1...]
 2. [Step 2...]
 
