@@ -57,7 +57,7 @@ Trivia:
 The name comes from the creator's nickname: "Zaelu" and the word "Link" (since what the gunstock does is to create a link.): Zael...Link.
 Funfact.. Zael is a player model of Quake3 Arena game. The u' at the end is just an article like "THE" in creator's maternal romance language. 
 Read it how you prefer but it's meant to sound like "Ze Link" aka "The Link" because most people can't or don't know how the AE in the name should be read they read it like an E from the word red.
-So... Zae-Link ;)
+Thus... Zae-Link ;)
 
 
 
