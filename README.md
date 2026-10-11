@@ -14,9 +14,9 @@ The paradigm is defined by:
 The motto is:   **Everybody SHOULD build a prototype!**
 
 This is a play on a quote of Elon Musk that said something on the lines: "Anyone can build a prototype but building a product is way more difficult". 
-We believe there is some truth in that saying but also an opposite and glorious route. We cannot always wait for someone to solve all problems and we just buy the solutions. We, each one of us on this Planet,  need to activelly search problems and find solutions for them.
+We believe there is some truth in that saying but also we can spot an opposite and glorious route . We cannot always wait for someone to solve all problems and we just buy the solutions as products. We, each one of us on this Planet,  need to actively search problems and find solutions for them even if that means to have a world of Prototypes.
 
-The First principles at the core of ZaeLink VR gusntock creation are:
+The First principles at the core of ZaeLink VR gunstock creation are:
 
 ### 1. it should connect cvasi automatically while blindfolded. 
 ### 2. it should have strong and reliable connection. 
