@@ -1,9 +1,9 @@
 # "ZaeLinK" - VR Gunstock and its variants "Olympic" and "Fragnetto"
 
-![Project Photo](https://github.com/zaelu/ZaeLinK/blob/main/Logo_zaelink.png?raw=true)
+![Project Photo](Logo_zaelink.png?raw=true)
 
 
-A unique, open-source VR Gunstock project. 
+An unique, open-source VR Gunstock project. 
 
 
 The ZaeLink VR Gunstock is a gunstock that starts from Lateral Thinking (sic) paradigm that differs from most of already existing VR Gunstocks. 
@@ -13,16 +13,16 @@ The philosophy behind its design and construcion follows 10 core "First Principl
 The motto is:   Everybody SHOULD build a prototype!
 This is a play on a quote of Elon Musk that said something on the lines: "Anyone can build a prototype but building a product is way more difficult". We believe there is some truth in that saying but also an opposite and glorious route. We cannot always wait for someone to solve all problems and we just buy the solutions. We, each one of us on this Planet,  need to activelly search problems and find solutions for them.
 The First principles at the core of ZaeLink VR gusntock creation are:
-1. it should connect cvasi automatically while blindfolded. 
-2. it should have strong and reliable connection. 
-3. it should easily disconnect on command only.
-4. it should stay away from user operations with the hands and not interfere with the tracking at all.
-5. it should be adjustable and personalizable in few moves and seconds while blindfolded.
-6. it has to be cheap and have few materials in BoM  and be easy to print and build.
-7. It has to work with all virtual weapons and activities in VR shooters type games.  And yes.. it has to work with pump action shotguns too... and it does. 
-8. It should work with all VR headsets or most common of them at least. Users can adapt it for future ones easily.
-9. It needs not to be dangerous or heavy. So it doesn't look like a weapon. It has no exposed metallic parts, no screws, no visible magnets, no unecesarry sharp edges and as many round shapes as possible and be as minimalistic as possible (depending on configuration).
-10. It needs to work with VR games and their specific style and not to necessary it needs not to look like a specific real life weapon but more like Olympic sports ones i.e. specialized in performance in games not robustness under real life war fire.
+## 1. it should connect cvasi automatically while blindfolded. 
+## 2. it should have strong and reliable connection. 
+## 3. it should easily disconnect on command only.
+## 4. it should stay away from user operations with the hands and not interfere with the tracking at all.
+## 5. it should be adjustable and personalizable in few moves and seconds while blindfolded.
+## 6. it has to be cheap and have few materials in BoM  and be easy to print and build.
+## 7. It has to work with all virtual weapons and activities in VR shooters type games.  And yes.. it has to work with pump action shotguns too... and it does. 
+## 8. It should work with all VR headsets or most common of them at least. Users can adapt it for future ones easily.
+## 9. It needs not to be dangerous or heavy. So it doesn't look like a weapon. It has no exposed metallic parts, no screws, no visible magnets, no unecesarry sharp edges and as many round shapes as possible and be as minimalistic as possible (depending on configuration).
+## 10. It needs to work with VR games and their specific style and not to necessary it needs not to look like a specific real life weapon but more like Olympic sports ones i.e. specialized in performance in games not robustness under real life war fire.
 
 What do we mean by automatic connection?
 This main principle is a condition sine qua non for a functional VR Gunstock. We literaly have some Gunstocks today that hang from our necks and expect us to connect both handles/controllers to it in the heat of the battle while blind folded. We find this wrong and one of the main reasons people don't use them. Nobody assembles a weapon fractions of a second before a firefight... blind folded.
@@ -57,7 +57,7 @@ So... Zae-Link ;)
 You can view and interact with the 3D models directly in this repository by clicking on the files in the file list above!
 
 * **Material PLA+2.0 or stronger** [e.g., PLA, PETG]
-* **Variablefrom5 to 60%:** [Gyroid]
+* **Variable from 5 to 60%:** [Gyroid]
 * **Supports: where needed, tree and Normal**
 * **Layer Height: 0.16mm** 
 
