@@ -7,16 +7,22 @@ First pictures shows it in Quest 3 Configuration, Detachable Buttstock  and adju
 
 
 ### Left side view:
+
 ![Left side view](photos_docs/poza001.jpg)
 
 ### Top down view:
+
 ![Top down view](photos_docs/poza002.jpg)
 
 ### Right side view:
+
 ![Right side view](photos_docs/poza003.jpg)
   
-In this next picture we have the gunstock disasembled in its main component parts:  
+In this next two pictures we have the gunstock disasembled in its main component parts:  
+
 ![main components](photos_docs/poza004.jpg)
+
+![main components2](photos_docs/poza006.jpg)
   
 The components of the Zaelink VR Gunstock are:  
   
@@ -24,6 +30,7 @@ The components of the Zaelink VR Gunstock are:
 
 This Core is comprised of two round halves connected via connecting rods to the VR Touch Controllers. Inside the two circular halves that resembles to very flat cilinders facing eachother vertically there are a pattern of (usually) 6 (six) button type magnets (15x6mm or smaller thickness for adjusting magnetic power) arranged in a hexagonal pattern where each center of every magnet finds itself on a corner of this hexagonal imaginary shape that defines its pattern. The distance between magnets can also be tweaked but the Zaelink VR Gunstock uses a fixed 5cm lenght for any hexagon edge as it was found to be optimal for this application.  
 The two halves of the Magnetic Core thus attract each other by magnetic means while in close proximity aligning themselves with each of the six magnets of one side snapping to each of the six magnets of e other side. 
+
 ![Core pic 1](photos_docs/poza007.jpg)
 
 There are two principal patterns that are used:
@@ -50,34 +57,30 @@ There are two principal patterns that are used:
   **2.** The second component is **the pair of Two Cups** that hold the actual VR Touch Controllers in the case of modern VR heassets like Meta Quest 3, 3S and Pro (Quest 2 works with same cups as 3), Pico 4 Ultra and in the short future Steam Frame controllers. For Pico 4 non Ultra the controllers instead of cups under rings clamps are used to latch on the controllers spiral rings from underneath avoiding occlusion of the IR tracking LEDs
 
 The cups are designed such the controllers can slide in with ease and also mechanically be retained inside them requiring a minimal force to pull them off. Also they are designed to be 3D printed in such direction that the cups and their attachments that permit the coupling to the connecting rods that link them to the magnetic core and the buttstock are very strong and resit to operating tensions due to how the layer lines pas durring printing. The same 3D printing desing measures ensures a good shape of these cups that allow them to be thin and offer good grip cvasi identical with original to the user.
+
+![cups view](photos_docs/poza011.jpg)
   
-  **3.** The third component is the **modular Buttstock** that allows shoulder contact while having a wide range of adaptability and customisation. It’s position can be adjusted in several ways by its Extendable rod the lenght can be controlled, by its Ball Socket joints its position can be tweaked lateraly and vertically, by Rotation of the extendable rod its lateral position can be further amplified. The buttstock is modular and has an attachable **Cheekrest** that offers a forth point of contact on the cheek while operating the gunstock. Further more the Cheek rest has possibility of attachmetn of a **Cheekrest Extension that ca modify the lateral position where the cheekrest contacts the face of the user.
+  **3.** The third component is the **modular Buttstock** that allows shoulder contact while having a wide range of adaptability and customisation. It’s position can be adjusted in several ways by its *Extendable rod* the lenght can be controlled, by its *Ball Socket joints* its position can be tweaked lateraly and vertically, by *Rotation of the extendable rod* its lateral position can be further amplified. The buttstock is modular and has an attachable **Cheekrest** that offers a forth point of contact on the cheek while operating the gunstock. Further more the Cheekrest has possibility of attachmetn of a **Cheekrest Extension** that can modify the lateral position where the Cheekrest contacts the face of the user.
 
+![Buttstock view](photos_docs/poza012.jpg)
 
+A detail picture with Buttstock showing the opposite side where the magnets are slotted in it and Cheekrest for a stronger connection 
 
-**Detail second picture with Buttstock showing the opposite side where the magnets are slotted in it and Cheekrest for a stronger connection **
+![butstock 2nd view](photos_docs/poza013.jpg)
 
+Another detail picture on Buttstock shows its connector for the detachable variant. A variant non detachable also exists and likewise a variant where no buttstock connection exists for people that want no buttstock at all.
 
+![buttstock 3rd view](photos_docs/poza014.jpg)
 
-**Second detail picture on Butstock shows its connector for the detachable variant. A variant non detachable also exists and likewise a variant where no buttstock connection exists for people that want no buttstock at all.**
+Here bellow you can see a non detachable Buttstock variant that also has non adjustable connecting rods. Their length can be chosen or modified prior to printing. 
 
+![white gunstock non detach view](photos_docs/poza015.jpg)
 
+**4.** The fourth component is comprised of the 3 extendable or fixed in length connecting rods. These connecting rods make the connecton between the first three components. There design, 3d printing details and operation are critical to the use of the Zaelink gunstock.
 
+  Two type are thus provided for maximum of flexibility. The fixed ones trade the varible length for lightness and ruggedness while the extendable ones offer maximum convenience. The extendable ones are associated mostly with the Olympic mode while the fixed ones more with Fragnetto mode But this is just a paradigm alignment mostly as mixes ar etotally possible including having some connecting rods fixed and some extendable. 
 
-**Here bellow you can see a non detachable Buttstock variant that also has non adjustable connecting rods. Their length can be chosen or modified prior to printing.  
-**
-
-
-
-
-
-
-
-**4. The fourth component is comprised of the 3 extendable or fixed in length connecting rods. These connecting rods make the connecton between the first three components. There design, 3d printing details and operation are critical to the use of the Zaelink gunstock.**
-
-**Two type are thus provided for maximum of flexibility. The fixed ones trade the varible length for lightness and ruggedness while the extendable ones offer maximum convenience. The extendable ones are associated mostly with the Olympic mode while the fixed ones more with Fragnetto mode But this is just a paradigm alignment mostly as mixes ar etotally possible including having some connecting rods fixed and some extendable. **
-
-
+![connecting rods 1st view](photos_docs/poza016.jpg)
 
 
 
