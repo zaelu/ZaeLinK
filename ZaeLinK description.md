@@ -18,7 +18,7 @@ First pictures shows it in Quest 3 Configuration, Detachable Buttstock  and adju
 
 ![Right side view](photos_docs/poza003.jpg)
   
-In this next two pictures we have the gunstock disasembled in its main component parts:  
+In this next two pictures we have the gunstock disassembled in its main component parts (NOTE that Quest 3s, Quest Pro and Quest 2 use the same cups as Quest 3) :  
 
 ![main components](photos_docs/poza004.jpg)
 
