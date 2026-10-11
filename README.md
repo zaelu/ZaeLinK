@@ -8,8 +8,11 @@ An unique, open-source VR Gunstock project.
 
 The ZaeLink VR Gunstock is a gunstock that starts from Lateral Thinking (sic) paradigm that differs from most of already existing VR Gunstocks. 
 The paradigm is defined by:
+
 **Fix the pains of gunstocks** in an Open Source manner and Cheap to build personally or commercially with a leaning on Function over Form, Competition Performance over Traditional Looks and drawing inspiration from AK47 origin, - Lose Tolerances playing in its advantages, The philosophy behind its design and construction follows 10 core **"First Principles"** plus a motto.
+
 The motto is:   **Everybody SHOULD build a prototype!**
+
 This is a play on a quote of Elon Musk that said something on the lines: "Anyone can build a prototype but building a product is way more difficult". 
 We believe there is some truth in that saying but also an opposite and glorious route. We cannot always wait for someone to solve all problems and we just buy the solutions. We, each one of us on this Planet,  need to activelly search problems and find solutions for them.
 
