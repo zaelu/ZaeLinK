@@ -95,6 +95,18 @@ After doing the first halve side, best practice is to place the second halve in 
  4. Apply a square (yes don't bother with round patches is not important) of double sided duck tape directly on the ball's end. After placing it and pressing it to fit the roundness of the ball... doesn't matter it makes kinks! you can remove the covering paper to expose the other glued side of the double sided ducktape Now is ready to go into socket.
  5. Place the ball on the socket and align the rod as best as possible with the final position you want it to be so you don't need to turn it too much afterwards! Tighten it with the Locking Nut as best as possible. Lock the Locking Nut with a small 5cm long piece of normal filament that was never passed through extruder gears so it doesn't break when bent! The filament needs to be folded in two so it looks like a "U". Make sure some of the holes in the nut align with some of the holes in the core (or later, controller cups or buttstock end) and pass the U shaped filament through 2 of the holes from nut end towards the piece you are connecting it to. Now t Locking Nut is itself Locked from turning.
  6. Now you can adjust the ball socket joint. Do it with smallest necessary force and by placing your hands firmly as close as possible to articulation. You want small moves not large moves that put pressure on the whole assembly or try to break the rods!!!!!!!!! The force required should be great enough to be more than the force required to detach the Magnetic Core halves!! meaning the mag Core should open before the gunstock starts to deform or readjust in the adjusting rods! To achieve that you need to check the tightness of the locking knobs is sufficient. If not, remove the locking pins... the U shaped filament wires and tighten some more and make sure after that the holes in the nut are still aligned with the holes in the part! Resecure the nut with U filament and adjust again. Best way to really check this is in game after a bit of play and the Gunstock is warm from hands a bit. When is cold the locking happens earlier than when is warm!
+
+  ## 🤝 Acknowledgments & Attributions
+
+While the vast majority of this hardware project is completely original, it incorporates a modified version of an existing open-source component:
+
+* **Ball-and-Socket Joint Component**
+  * **Original Project:** [Open Source Universal Ball Joint (to reuse!)]
+  * **Original Creator:** [DieZopfe]
+  * **Source Link:** [https://www.thingiverse.com/thing:4739696]
+  * **License:** [CC BY-SA (https://creativecommons.org) ]
+  * **Usage:** We adapted and modified this specific joint mechanism to serve as a single connection point within the larger ZaeLinK system.
+
  
 
 ## ⚖️ License
