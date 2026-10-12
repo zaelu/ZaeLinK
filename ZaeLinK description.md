@@ -1,5 +1,3 @@
-![]()
-
 
 # This is the Zaelink VR Gunstock
 
