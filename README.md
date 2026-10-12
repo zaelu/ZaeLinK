@@ -3,6 +3,9 @@
 ![Project Photo](photos_docs/Logo_zaelink.png?raw=true)
 
 
+## ⚖️ License
+This project is licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S)**. See the `LICENSE` file for details.
+
 An unique, open-source VR Gunstock project. 
 
 
