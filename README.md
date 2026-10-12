@@ -107,7 +107,7 @@ While the vast majority of this hardware project is completely original, it inco
   * **License:** [CC BY-SA (https://creativecommons.org) ]
   * **Usage:** We adapted and modified this specific joint mechanism to serve as a single connection point within the larger ZaeLinK system.
  
-  * [![Buy Me a Croissant](https://buymeacoffee.com🥐&slug=BogdanZaeluGE&button_colour=FF5722&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FF5722)](https://buymeacoffee.com)
+ [![Buy Me a Croissant](https://buymeacoffee.com🥐&slug=BogdanZaeluGE&button_colour=FF5722&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FF5722)](https://buymeacoffee.com)
 
  
 
