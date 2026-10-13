@@ -109,7 +109,7 @@ While the vast majority of this hardware project is completely original, it inco
  
  [![Buy Me a Croissant](https://buymeacoffee.com)(https://buymeacoffee.com🥐&slug=BogdanZaeluGE&button_colour=FF5722&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FF5722)]
 
- ![Buy Me a Coffee](https://buymeacoffee.com/button-api/?text=Buy me a coffee & slug=BogdanZaeluG & button_colour=BD5FFF & font_colour=ffffff & font_family=Cookie & outline_colour=000000 & coffee_colour=FFDD00)(://buymeacoffee.com/BogdanZaeluG)
+ [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee & slug=BogdanZaeluG & button_colour=BD5FFF & font_colour=ffffff & font_family=Cookie & outline_colour=000000 & coffee_colour=FFDD00)](://buymeacoffee.com/BogdanZaeluG)
 
 
 ## ⚖️ License
